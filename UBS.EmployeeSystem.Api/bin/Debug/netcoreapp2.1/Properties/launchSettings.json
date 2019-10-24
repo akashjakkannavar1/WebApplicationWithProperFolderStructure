@@ -1,0 +1,15 @@
+﻿{
+  "profiles": {
+    "Kestrel": {
+      "commandName": "Project",
+      "launchUrl": "Index",
+      "environmentVariables": {
+        "CONNECTION_STRING": "mongodb://localhost:27017",
+        "SERVICE_PORT": "6000",
+        "DATABASE_NAME": "EmployeeLogin",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:6000"
+    }
+  }
+}

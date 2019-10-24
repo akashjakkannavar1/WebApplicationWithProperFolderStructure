@@ -1,0 +1,13 @@
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\bin\Debug\netstandard2.0\UBS.EmployeeSystem.Persistence.dll
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\obj\Debug\netstandard2.0\UBS.EmployeeSystem.AssemblyInfoInputs.cache
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\obj\Debug\netstandard2.0\UBS.EmployeeSystem.AssemblyInfo.cs
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\obj\Debug\netstandard2.0\UBS.EmployeeSystem.csprojAssemblyReference.cache
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\bin\Debug\netstandard2.0\UBS.EmployeeSystem.deps.json
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\bin\Debug\netstandard2.0\UBS.EmployeeSystem.dll
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\bin\Debug\netstandard2.0\UBS.EmployeeSystem.pdb
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\bin\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.dll
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\bin\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.pdb
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\bin\Debug\netstandard2.0\UBS.EmployeeSystem.Persistence.pdb
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\obj\Debug\netstandard2.0\UBS.EmployeeSystem.csproj.CopyComplete
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\obj\Debug\netstandard2.0\UBS.EmployeeSystem.dll
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem\obj\Debug\netstandard2.0\UBS.EmployeeSystem.pdb

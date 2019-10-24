@@ -1,0 +1,8 @@
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem.Abstractions\bin\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.deps.json
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem.Abstractions\bin\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.dll
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem.Abstractions\obj\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.csprojAssemblyReference.cache
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem.Abstractions\obj\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.AssemblyInfoInputs.cache
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem.Abstractions\obj\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.AssemblyInfo.cs
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem.Abstractions\bin\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.pdb
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem.Abstractions\obj\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.dll
+C:\Users\AkashAJ\source\repos\EmployeeSystem\UBS.EmployeeSystem.Abstractions\obj\Debug\netstandard2.0\UBS.EmployeeSystem.Abstractions.pdb
